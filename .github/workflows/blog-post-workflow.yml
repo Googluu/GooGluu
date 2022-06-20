@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+          feed_list: "[![Latest blog post workflow](https://github.com/Googluu/GlooGluu/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Googluu/GlooGluu/actions/workflows/blog-post-workflow.yml)"
