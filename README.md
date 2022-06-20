@@ -55,5 +55,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <!-- BLOG-POST-LIST:START -->
-- [![Latest blog post workflow](https://github.com/Googluu/GlooGluu/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Googluu/GlooGluu/actions/workflows/blog-post-workflow.yml)
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
