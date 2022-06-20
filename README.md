@@ -55,5 +55,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/feed/Googluu)
+- [Test Post](https://github.com/Googluu)
 <!-- BLOG-POST-LIST:END -->
