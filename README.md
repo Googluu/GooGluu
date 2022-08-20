@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 
 - 💚 I am a **[Platzinauta](https://platzi.com/home)**. **Never stop learning!**
 - 🌱 I’m currently learning **Node.js for Backend creation.**
