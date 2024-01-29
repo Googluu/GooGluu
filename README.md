@@ -21,4 +21,4 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Googluu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Googluu GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Googluu&layout=compact&theme=&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
